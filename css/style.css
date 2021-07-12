@@ -2,55 +2,37 @@
     width: 100px;
     height: auto;
 }
-body{
-    background-color: #E79A00;
-}
 #mypic{
     width: 300px;
     height: 300px;
     border-radius: 50%;
     box-shadow: 10px 10px 10px #0f0f0f;
-    transition: ease-in-out 0.5s;
-
 }
-#mypic:hover{
-    width: 350px;
-    height: 350px;
-    border-radius: 50%;
-}
-.row .col{
+#para1{
     text-align: center;
     margin-bottom: 30px;
     margin-top: 30px;
 }
-#routediv{
+#mainone{
+    margin-top: 40px;
+}
+#mypicdiv{
+    text-align: center;
+    padding-top: 40px;
+}
+body{
+    background-color: #E79A00;
+}
+#pic2{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    box-shadow: 10px 10px 10px #0f0f0f;
+}
+#div2{
     text-align: center;
 }
-#route{
-    width: 70%;
-    height: auto;
-    margin-bottom: 3px;
+#para2{
+    text-align: center;
     
-}
-#secondmain{
-    background-color: #140a09;
-    margin-top: 30px;
-    box-shadow: 10px 10px 10px 5px #a77001;
-    border-radius: 30px;
-    margin-bottom: 40px;
-    width: 100vw;
-    height: auto;
-}
-#secondpara{
-    color: #FFFCF5;
-    text-align: center;
-    padding-top: 60px;
-    padding-left: 30px;
-}
-#secondimg{
-    border-radius: 50px;
-    width: 80%;
-    height: auto;
-    /* padding-top:100px; */
-    margin-top:60px;
 }
