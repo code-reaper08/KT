@@ -64,3 +64,15 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#854f1f",endCo
     color: #fffcf5bb;
     text-align: center;
 }
+#boom {
+    width: 100%;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.boomdiv {
+    background-color: black;
+    /* border-radius: 60px; */
+    box-shadow: 0px -10px 20px 10px black;
+    /* box-shadow: 0px 10px 20px 10px black; */
+    margin-top: 80px;
+}
