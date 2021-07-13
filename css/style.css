@@ -60,3 +60,7 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#854f1f",endCo
 .divider #paper{
     width: 100%;
 }
+#writings{
+    color: #fffcf5bb;
+    text-align: center;
+}
