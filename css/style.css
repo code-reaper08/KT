@@ -7,6 +7,13 @@
     height: 300px;
     border-radius: 50%;
     box-shadow: 10px 10px 10px #0f0f0f;
+    transition: ease-in-out 0.5s;
+}
+#mypic:hover{
+    width: 310px;
+    height: 310px;
+    border-radius: 50%;
+    box-shadow: 10px 10px 10px #0f0f0f;
 }
 #para1{
     text-align: center;
@@ -47,6 +54,9 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#854f1f",endCo
 .divider{
     text-align: center;
 }
-.divider img {
+.divider .divimage {
     width: 100%;
+}
+.divider #paper{
+    /* box-shadow: 2px 2px 5px black; */
 }
