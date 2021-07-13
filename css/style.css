@@ -58,5 +58,5 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#854f1f",endCo
     width: 100%;
 }
 .divider #paper{
-    /* box-shadow: 2px 2px 5px black; */
+    width: 100%;
 }
