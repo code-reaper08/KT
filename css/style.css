@@ -32,11 +32,12 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#854f1f",endCo
 #pic2{
     width: 300px;
     height: 300px;
-    border-radius: 50%;
+    border-radius: 10%;
     box-shadow: 10px 10px 10px #0f0f0f;
 }
 #div2{
     text-align: center;
+    width: 100%;
 }
 #para2{
     text-align: center;
