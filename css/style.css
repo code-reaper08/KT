@@ -44,3 +44,9 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#854f1f",endCo
     color: #FFFCF5;
 
 }
+.divider{
+    text-align: center;
+}
+.divider img {
+    width: 100%;
+}
