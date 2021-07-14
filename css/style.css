@@ -48,7 +48,8 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#5e3d06",endCo
 }
 #para2{
     text-align: center;
-    color: #FFFCF5;
+    /* color: #e79a0067; */
+    color: #fffcf579;
 
 }
 .divider{
