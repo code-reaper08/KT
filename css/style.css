@@ -7,7 +7,7 @@
     height: 300px;
     border-radius: 50%;
     /* box-shadow: 10px 10px 10px #0f0f0f; */
-    border: 5px solid #e79a00;
+    border: 5px solid #1f1f1f;
     transition: ease-in-out 2s;
 }
 #mypic:hover{
@@ -15,7 +15,7 @@
     height: 350px;
     border-radius: 50%;
     box-shadow: 5px 10px 5px #a3a3a331;
-    border: 5px solid #e79a00;
+    border: 5px solid #1f1f1f;
 }
 #para1{
     text-align: center;
