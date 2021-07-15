@@ -86,3 +86,13 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#5e3d06",endCo
 #carouselExampleCaptions{
     padding-bottom: 80px;
 }
+#trans{
+    text-align: right;
+    padding-right: 40px;
+}
+#trans img {
+    width: 30px;
+    height: auto;
+    background-color: white;
+    border-radius: 50%;
+}
