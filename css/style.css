@@ -83,3 +83,6 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#5e3d06",endCo
 /* .navbar-text{
     color: #E79A00 ;
 } */
+#carouselExampleCaptions{
+    padding-bottom: 80px;
+}
