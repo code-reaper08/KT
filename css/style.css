@@ -96,6 +96,44 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#5e3d06",endCo
     background-color: white;
     border-radius: 50%;
 } */
-#box{
+/* #box{
     text-align: right;
+} */
+.onoffswitch {
+    position: relative; width: 60px;
+    -webkit-user-select:none; -moz-user-select:none; -ms-user-select: none;
+}
+.onoffswitch-checkbox {
+    position: absolute;
+    opacity: 0;
+    pointer-events: none;
+}
+.onoffswitch-label {
+    display: block; overflow: hidden; cursor: pointer;
+    height: 34px; padding: 0; line-height: 34px;
+    border: 0px solid #FFFFFF; border-radius: 27px;
+    background-color: #E6D2A6;
+}
+.onoffswitch-label:before {
+    content: "";
+    display: block; width: 27px; margin: 3.5px;
+    background: #E6D2A6;
+    position: absolute; top: 0; bottom: 0;
+    right: 22px;
+    border-radius: 27px;
+    box-shadow: 0 6px 12px 0px #757575;
+}
+.onoffswitch-checkbox:checked + .onoffswitch-label {
+    background-color: #E79A00;
+}
+.onoffswitch-checkbox:checked + .onoffswitch-label, .onoffswitch-checkbox:checked + .onoffswitch-label:before {
+   border-color: #E79A00;
+}
+.onoffswitch-checkbox:checked + .onoffswitch-label .onoffswitch-inner {
+    margin-left: 0;
+}
+.onoffswitch-checkbox:checked + .onoffswitch-label:before {
+    right: 0px; 
+    background-color: #E0B24E; 
+    box-shadow: 3px 6px 18px 0px rgba(0, 0, 0, 0.2);
 }
