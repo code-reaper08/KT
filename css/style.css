@@ -86,7 +86,7 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#5e3d06",endCo
 #carouselExampleCaptions{
     padding-bottom: 80px;
 }
-#trans{
+/* #trans{
     text-align: right;
     padding-right: 40px;
 }
@@ -95,4 +95,7 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#5e3d06",endCo
     height: auto;
     background-color: white;
     border-radius: 50%;
+} */
+#box{
+    text-align: right;
 }
